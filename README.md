@@ -1,4 +1,4 @@
-# biostat777-intro-SunanGao
+# Sunan Gao -- Personal Website
 Author: Sunan Gao
 -------------------------------------------------------
 Link: https://sngao.github.io/biostat777-intro-SunanGao/
