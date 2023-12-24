@@ -1,0 +1,236 @@
+---
+title: "Example analysis"
+editor: visual
+---
+
+```{r}
+#| warning: false
+#| echo: false
+library(ggplot2)
+library(readr)
+library(dplyr)
+library(ISLR2)
+```
+
+#### Background
+
+There are two commonly held beliefs around income and age [@routley_visualizing_2018]: <br>
+
+-   Earning trajectory is largely determined by the time a person is 35-years-old <br>
+-   Income is positively correlated with age <br>
+
+Figure: Visualize American Income Levels by Age Group [@routley_visualizing_2018] ![](images/American%20Income%20and%20Age.png){fig-align="left" width="500"} <br>
+
+#### Main Problem
+
+-   Is it possible that the relationship between age and income is non-linear?
+-   Could we use some models to illustrate such a relationship?
+
+#### Intended Audience
+
+-   Demographers interested in the correlation between age and income <br>
+-   Students who are studying statistical models
+
+#### Data set
+
+Data was manually assembled by Steve Miller, of Inquidia Consulting. From the Mar. 2011 Supplement to Current Population Survey data. Wage and other data for a group of 3000 male workers in the Mid-Atlantic region.
+
+-   [Description](https://rdrr.io/cran/ISLR2/man/Wage.html)
+
+-   [Source Resources](https://www.re3data.org/repository/r3d100011860)
+
+#### Data dictionary
+
+| Variable   | Class   | Description                                                                                                                              |
+|--------------|--------------|-------------------------------------------|
+| year       | integer | Year that wage information was recorded                                                                                                  |
+| age        | integer | Age of worker                                                                                                                            |
+| maritl     | factor  | A factor with levels `1. Never Married` `2. Married` `3. Widowed` `4. Divorced` and `5. Separated` indicating marital status             |
+| race       | factor  | A factor with levels `1. White` `2. Black` `3. Asian` and `4. Other` indicating race                                                     |
+| education  | factor  | A factor with levels `1. < HS Grad` `2. HS Grad` `3. Some College` `4. College Grad` and `5. Advanced Degree` indicating education level |
+| region     | factor  | Region of the country (mid-atlantic only)                                                                                                |
+| jobclass   | factor  | A factor with levels `1. Industrial` and `2. Information` indicating type of job                                                         |
+| health     | factor  | A factor with levels `1. <=Good` and `2. >=Very Good` indicating health level of worker                                                  |
+| health_ins | factor  | A factor with levels `1. Yes` and `2. No` indicating whether worker has health insurance                                                 |
+| logwage    | numeric | Log of workers wage                                                                                                                      |
+| wage       | numeric | Workers raw wage                                                                                                                         |
+
+: Table: Data Dictionary {.striped .hover}
+
+[Data Dictionary](./Data%20Dictionary.qmd)
+
+#### Descriptive Analysis
+
+-   The data of 5 years before the 2008 financial crisis (2004-2008) were selected as the target.
+-   We mainly foceus on the associations between wage and age. Thus, most variables were dropped in the following analysis.
+
+```{r}
+#| warning: false
+data = Wage; Wage = data
+Wage <- Wage %>%
+          filter(year>=2004 & year<=2008) %>%
+          dplyr::select(year, age, wage, jobclass, education)
+head(Wage)
+```
+
+Under the stratification of education and jobclass, the average and variance of wage.
+
+```{r, warning=FALSE}
+Wage_a <- Wage %>% 
+  group_by(education, jobclass) %>%
+  summarise(Mean = mean(wage),
+            std = sd(wage))
+data.frame(Wage_a)
+```
+
+-   People with higher levels of education and working in the information field generally have higher incomes, but they fluctuate more
+
+```{r, warning=FALSE}
+Wage %>% 
+  group_by(age) %>%
+  summarise(Mean = mean(wage),
+            std = sd(wage)) %>%
+  ggplot(aes(x = age, y = Mean)) + 
+  geom_line(aes(x = age, y = Mean),  linetype = "solid", color = rainbow(61), size = 1.5) + 
+  labs(title = "The average wage under different age",
+       subtitle = 'Line Chart: Average Wage ~ Age',
+       caption = "Data source: Wage data was manually assembled by Steve Miller",
+       x = "Age", y = "Wage") + theme_minimal()
+```
+
+-   Wage rises gradually between the ages of 20 and 40, gradually stabilizes after the age of 40, and gradually declines after the age of 60. There is a clear rise around age 75, probably because the data sample is smaller. On the whole, age and wage do not show a linear increase relationship, but a non-linear increase.
+
+```{r, warning=FALSE}
+Wage %>% 
+  ggplot(aes(x = age, y = wage)) +
+  geom_bar(stat = "identity", fill = rainbow(2098)) +
+  labs(title = "The sampe number of distribution under different age",
+       subtitle = 'Box Diagram: Effecive wage number ~ Age',
+       caption = "Data source: Wage data was manually assembled by Steve Miller",
+       x = "Age", y = "Effective Wage Number") +
+  theme_minimal()
+```
+
+-   The effective wage number under different age shows really distinctive number. The number between people aged 23 and 63 is relatively stable and sufficient. Thus, it should be payed more attention in this number distribution, which might influence association results between exposure and outcome variables.
+
+```{r, warning=FALSE}
+Wage %>% 
+  group_by(jobclass, education) %>%
+  mutate(Mean_diff = wage - mean(wage),
+         std = sd(wage)) %>%
+  ggplot(aes(x = age, y = Mean_diff)) + 
+  geom_bar(stat = "identity", fill = rainbow(2098)) + 
+  labs(title = "The distribution of the income difference",
+       subtitle = 'relative to the same jobclass/education group at different ages',
+       caption = "Data source: Wage data was manually assembled by Steve Miller",
+       x = "Age", y = "Wage") +
+  theme_minimal()
+```
+
+-   When stratified by jobclass and education level, it can be noted that the distribution trend is not the same for different ages. At the same time, the distribution characteristics of wage difference and individual wage also change significantly after group calculation, which provides ideas for subsequent variable adjustment and subgroup analysis.
+
+```{r, warning=FALSE}
+fit <- lm(wage~poly(age,4),data=Wage)
+temp = summary(fit)
+data.frame(temp$coefficients)
+```
+
+-   It can be observed in the polynomial model that the significance of the quadratic age provides the basis for the nonlinear correlation.
+
+```{r, warning=FALSE}
+agelims <- range(Wage$age)
+age.grid <- seq(from=agelims[1], to=agelims[2])
+newdata <- list(age=age.grid)
+preds <- predict(fit, newdata, se=TRUE)
+
+se.bands <- cbind(preds$fit+2*preds$se, preds$fit-2*preds$se)
+data_plot = data.frame(newdata, preds$fit, se.bands); colnames(data_plot)=c('Age','fit','Upper','Lower')
+
+ggplot(data = data_plot, aes(x = Age, y = fit)) +
+  geom_point(data = Wage, aes(x = age, y = wage), color = "darkgrey") +
+  geom_ribbon(data = data_plot, aes(x = Age, ymin = Lower, ymax = Upper), color = "blue", alpha = 0.3) +
+  geom_line(data = data_plot, aes(x = Age, y = fit), linetype = "solid", color = "blue", size = 1.5) +
+  facet_wrap(~jobclass, ncol = NULL, scales = "free_y") +
+  labs(title = "The non linear connection between Age and Wage",
+       subtitle = 'Polynomials Regression, max power = 4',
+       caption = "Data source: Wage data was manually assembled by Steve Miller",
+       x = "Age", y = "Wage") +
+  theme_minimal()
+```
+
+-   The correlation between Wage and age is basically the same in different jobclasses, which is the same as previously discussed. Interestingly, the highest peaks are reached in middle age, covering the ages of 35-65.
+
+We use the anova() function, which performs an analysis of variance (ANOVA, using an F-test) in order to test the null hypothesis that a model M1 is sufficient to explain the data against the alternative hypothesis that a more complex model M2 is required.
+
+```{r}
+fit.1 <- lm(wage ~ age,data=Wage)
+fit.2 <- lm(wage ~ poly(age,2),data=Wage)
+fit.3 <- lm(wage ~ poly(age,3),data=Wage)
+fit.4 <- lm(wage ~ poly(age,4),data=Wage) 
+fit.5 <- lm(wage ~ poly(age,5),data=Wage)
+anova(fit.1,fit.2,fit.3,fit.4,fit.5)
+```
+
+-   ANOVA results show that only the square of Age can increase the explanatory power of Wage in the model, and there is no higher-order relationship between them.
+
+#### Polynomial logistic regression
+
+Now we fit a logistic regression model to a binary response variable, constructed from `wage`. We code the big earners (`>250K`) as 1, else 0.
+
+```{r}
+fit <- glm(I(wage>250) ~ poly(age,3), data=Wage, family=binomial)
+summary(fit)
+temp = summary(fit)
+data.frame(temp$coefficients)
+
+preds <- predict(fit,list(age=age.grid),se=T)
+se.bands <- preds$fit + cbind(fit=0,lower=-2*preds$se,upper=2*preds$se)
+se.bands[1:5,]
+```
+
+::: callout-note
+Here `I()` is a *wrapper* function; A wrapper function is a function in a software library or a computer program whose main purpose is to call a second subroutine or a system call with little or no additional computation [@jedermann_wrapper_2022, @noauthor_wrapper_2023].
+:::
+
+::: column-margin
+The computations are on the logit scale. To transform, we need to apply the inverse logit mapping $$p=\frac{e^\eta}{1+e^\eta}.$$
+:::
+
+In order to perform local regression, we use the `loess()` function.
+
+```{r}
+ggplot(data = Wage, aes(x = age, y = wage)) +
+  geom_point(color = "darkgrey", size = 2) +
+  geom_smooth(method = "loess", formula = y ~ x, span = 0.2, color = "red", size = 1) +
+  geom_smooth(method = "loess", formula = y ~ x, span = 0.5, color = "blue", size = 1) +
+  xlim(agelims) +
+  labs(title = "Local Regression", 
+       subtitle = 'Span=0.2 (red), Span=0.5 (blue)',
+       caption = "Data source: Wage data was manually assembled by Steve Miller") +
+  theme_minimal() +
+  theme(legend.position = "topright") +
+  scale_color_manual(values = c("red", "blue")) +
+  guides(color = guide_legend(title = NULL))
+```
+
+-   Local regression describes the nonlinear joint with a higher degree of freedom model[@cleveland_smoothing_1996], and the results are in good agreement with the multi-variable model.
+
+::: {.callout-caution collapse="true"}
+## Additional information for this analysis
+
+This study focuses on the correlation between Wage and Age, but does not discuss the stratification and adjustment of variables. Meanwhile, the predicted value of the model comes from the training sample of the model, which will interfere with the actual fitting effect. More rigorous additional analysis is needed.
+:::
+
+To compare the figure between plot function in base package and ggplot function, I show you the figure without using ggplot. ![](images/plot_base_local_regression.png){fig-align="left"}
+
+#### Summary of Analysis
+
+-   People with higher levels of education and working in the information field generally have higher incomes, but they fluctuate more
+-   When stratified by jobclass and education level, it can be noted that the distribution trend is not the same for different ages. At the same time, the distribution characteristics of wage difference and individual wage also change significantly after group calculation, which provides ideas for subsequent variable adjustment and subgroup analysis.
+-   ANOVA results show that only the square of Age can increase the explanatory power of Wage in the model, and there is no higher-order relationship between them.
+-   Local regression describes the nonlinear joint with a higher degree of freedom model, and the results are in good agreement with the multi-variable model.
+
+#### Functions used from packages
+
+-   dplyr/tidyr: filter(); select(); summarise(); group_by(); mutate() <br>
+-   ggplot2: geom_point(); geom_smooth(); geom_line(); geom_ribbon(); geom_bar

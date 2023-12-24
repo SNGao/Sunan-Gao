@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sunan GAO (高溯楠)"
+  favicon: image.jpg
+  navbar:
+    background: dark
+    right:
+      - href: index.qmd
+        text: Home # use 'text' option to update the name as you want it to appear in your navbar
+      - about.qmd
+      - href: resources.qmd
+        text: Projects
+      - href: myCV.pdf
+        text: CV
+      - icon: github # add icons that link to social media, etc.
+        href: https://github.com/SNGao
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=QmKga9sAAAAJ
+      - icon: linkedin
+        href: www.linkedin.com/in/sunangao
+      
+
+format:
+  html:
+    theme:
+      light: minty
+      dark: solar
+    css: styles.css
+    toc: true
+
+editor: visual
+bibliography: ref_project1.bib

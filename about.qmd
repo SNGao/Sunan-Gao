@@ -1,0 +1,41 @@
+---
+title: "About"
+---
+
+## Sunan Gao
+
+#### [**Education**]{.smallcaps}
+
+| MS. Student (2023- ) \| Johns Hopkins University
+| MS. Stundet (2022-2023, transfer) \| Renmin University of China
+| Bachelor of Enginnering (2018-2022) \| Zhejiang University
+
+------------------------------------------------------------------------
+
+#### [**Disciplines**]{.smallcaps}
+
+Food Science; Bioinformatics; Epidemiology; Biostatistics
+
+#### [**Skills & Expertise**]{.smallcaps}
+
+Food Analysis; Food Nanotechnology; Machine Learning; Metabonomics; GWAS
+
+#### [**Languages**]{.smallcaps}
+
+English; Chinese
+
+### [**Experience**]{.smallcaps}
+
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| ![](JHU_logo.png){width="65" height="68"} | <span style="font-size: 13px; line-height: 1.3"> Master student \@ Johns Hopkins University\                   |
+|                                           | Aug. 2022 - Now\                                                                                               |
+|                                           | GPA: 4.0 / 4.0                                                                                                 |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| ![](RUC_logo.png){width="65"}             | <span style="font-size: 13px; line-height: 1.3"> Master training \@ Renmin University of China (Transfer)\     |
+|                                           | Sep. 2022 - Jun. 2023\                                                                                         |
+|                                           | GPA: 3.9 / 4.0                                                                                                 |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="65"}             | <span style="font-size: 13px; line-height: 1.3; "> B.Eng in Food Science & Engineering \@ Zhejiang University\ |
+|                                           | Sep. 2018 - Jun. 2022\                                                                                         |
+|                                           | GPA: 4.0 / 4.0, Ranking: 1 / 50                                                                                |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
