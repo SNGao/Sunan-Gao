@@ -10,9 +10,8 @@ website:
     right:
       - href: index.qmd
         text: Home # use 'text' option to update the name as you want it to appear in your navbar
-      - about.qmd
-      - href: resources.qmd
-        text: Projects
+      - href: about.qmd
+        text: About
       - href: myCV.pdf
         text: CV
       - icon: github # add icons that link to social media, etc.

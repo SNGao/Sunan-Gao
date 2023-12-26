@@ -1,41 +1,82 @@
 ---
-title: "About"
+title: "Sunan Gao"
+
+format: 
+  html:
+    fontsize: 14.5px
+    linestretch: 1.3
+    toc: true
+    gird:
+      body-width: 700px
+      sidebar-width: 80px
+      margin-width: 80px
 ---
 
-## Sunan Gao
+### [**Disciplines**]{.smallcaps}
 
-#### [**Education**]{.smallcaps}
+Biostatistics; Epidemiology; Bioinformatics; Aging; Nutrition
 
-| MS. Student (2023- ) \| Johns Hopkins University
-| MS. Stundet (2022-2023, transfer) \| Renmin University of China
-| Bachelor of Enginnering (2018-2022) \| Zhejiang University
+### [**Research Interest**]{.smallcaps}
 
-------------------------------------------------------------------------
+-   ***Aging-related Diseases:*** Cognitive decline; Dementia; Cardiovascular disease
 
-#### [**Disciplines**]{.smallcaps}
+-   ***Research Methods:*** Causal inference; Functional data; Machine Learning; Omics procedure
 
-Food Science; Bioinformatics; Epidemiology; Biostatistics
+-   ***Complex Data:*** Metabonomics; Genomics; Accelerator data
 
-#### [**Skills & Expertise**]{.smallcaps}
+-   ***Composite Indicator:*** Biological age; Physical activity patter; Dietary pattern; Public index
 
-Food Analysis; Food Nanotechnology; Machine Learning; Metabonomics; GWAS
+### [**Selected Publications**]{.smallcaps}
 
-#### [**Languages**]{.smallcaps}
+-   [***Sunan, G***]{.underline}, Heming D, Shaobo W, ... Yu, W (2023). Effects of accelerated biological aging on depressive symptoms in a causal reasoning framework. J AFFECTIVE DISORDERS, 339. doi: <https://doi.org/10.1016/j.jad.2023.07.019>
 
-English; Chinese
+-   Qing, Y^1^, [***Sunan, G***]{.underline}^1^, Junfen, L., ... Ming, C (2023). A machine learning-based data mining in medical examination data: a biological features-based biological age prediction model. BMC BIOINFORMATICS, 23(1), 411. doi: <https://doi.org/10.1186/s12859-022-04966-7>
 
-### [**Experience**]{.smallcaps}
+-   Heming D, [***Sunan, G***]{.underline}. CRAN R Package (2023). UOTM: Uncertainty of Time Series Model Selection. Link: <https://cran.r-project.org/web/packages/uotm/index.html>
 
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| ![](JHU_logo.png){width="65" height="68"} | <span style="font-size: 13px; line-height: 1.3"> Master student \@ Johns Hopkins University\                   |
-|                                           | Aug. 2022 - Now\                                                                                               |
-|                                           | GPA: 4.0 / 4.0                                                                                                 |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| ![](RUC_logo.png){width="65"}             | <span style="font-size: 13px; line-height: 1.3"> Master training \@ Renmin University of China (Transfer)\     |
-|                                           | Sep. 2022 - Jun. 2023\                                                                                         |
-|                                           | GPA: 3.9 / 4.0                                                                                                 |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="65"}             | <span style="font-size: 13px; line-height: 1.3; "> B.Eng in Food Science & Engineering \@ Zhejiang University\ |
-|                                           | Sep. 2018 - Jun. 2022\                                                                                         |
-|                                           | GPA: 4.0 / 4.0, Ranking: 1 / 50                                                                                |
-+-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+-   Xuzhi, W, Yiju, Z, [***Sunan, G***]{.underline}, ... Yu, Z (2023). Machine learning prediction of exposure to acrylamide based on modelling of association between dietary exposure and internal biomarkers. FOOD CHEM TOXICOL, 170: 113498. doi: <https://doi.org/10.1016/j.fct.2022.113498>
+
+-   Yong W, Yaoran Li, Wei J, ... Yu Z (2023). Reconstructing hepatic metabolic profile and glutathione-mediated metabolic fate of acrylamide. doi: <https://doi.org/10.1016/j.envpol.2023.122508>
+
+-   National Invention Patent (CN-115006369-A, 2021-2023). A brain-targeted lipid nanocapsule drug-carrying system and its preparation method and application. Link: <https://pubchem.ncbi.nlm.nih.gov/patent/CN-115006369-A>
+
+-   [***Sunan, G***]{.underline}, Mingyi, Y, Zisheng, L, ... Li, L. (2022). Soy protein/chitosan-based microsphere as stable biocompatible vehicles of oleanolic acid: an emerging alternative enabling the quality maintenance of minimally processed produce. FOOD HYDROCOLLOID, 124(Part B), 107325. doi: <https://doi.org/10.1016/j.foodhyd.2021.107325>
+
+-   Plasma metabolome reveals the associations of dietary fats with risk of metabolic syndrome. 15th China Nutrition Science Congress (Conference paper, 2022). Link: <https://cnsc2021.sciconf.cn/cn/web/abstract-search/11176>
+
+-   Mingyi, Y, Zisheng, L, [***Sunan, G***]{.underline}, ..., Li, L (2021). The chemical composition and potential role of epicuticular and intracuticular wax in four cultivars of table grapes. POSTHARVEST BIOL TEC, 173: 111430. doi: <https://doi.org/10.1016/j.postharvbio.2020.111430>
+
+### [**Working Paper**]{.smallcaps}
+
+-   [***Sunan, G***]{.underline}, Tongxu L, Heming D, ... Yu, W (2023). Serum metabolites mediate causal relationships between intestinal flora and non-cognitive and cognitive features: Mutilvariable mendelian randomization. (Under Review)
+
+-   [***Sunan, G***]{.underline}, Yimei T, Xuzhi W, ... Yu, Z. (2023). Urinary metabolic analysis under 3-Chloro-1,2-propanediol di-ester and Eicosapentaenoic acid co-exposure: based on non-targeted metabolomics and molecular docking. (Under Review)
+
+-   Yimei T^1^, [***Sunan, G***]{.underline}^**1**^, Xuzhi W, ... Yu, Z. (2023). Internal and external exposure associations of 3- monochloropropane and glycidol using machine learning. (Under Review)
+
+-   Heming D., [***Sunan, G***]{.underline}, Tongxu, L, ... Yu, W. Association between negative mental health, medical burden, and economic development: evidence from an emerging composite anxiety-depression index. (Under Review)
+
+### [**Research Experience**]{.smallcaps}
+
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](RUC_logo.png){width="60"}    | <span style="font-size: 13px; line-height: 1.3"> **Master Training (Full-time, Biostatistics Lab)** \                                       |
+|                                  | *Supervised by A. Prof. Yu Wang, in [School of Statistics](http://stat.ruc.edu.cn/Home/index.htm)\                                          |
+|                                  | *Sept. 2022 - Aug. 2023                                                                                                                     |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="60"}**\ | <span style="font-size: 13px; line-height: 1.3"> **Research Assistant (Part-time, Bioinformatics Lab)**\                                    |
+| **                               | *Supervised by Prof. Ming Chen, in [College of Life Science](http://www.cls.en.zju.edu.cn/)\                                                |
+|                                  | *Feb. 2022 - Aug. 2022                                                                                                                      |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="60"}    | <span style="font-size: 13px; line-height: 1.3"> **Research Assistant (Part-time, CVD & Epidemiology Lab)**\                                |
+|                                  | *Supervised by Prof. Yu Zhang, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)\                 |
+|                                  | Co-supervised by Prof. Jingjing Jiao, in [School of Public Health](http://www.phs.zju.edu.cn/phsen/main.htm)*\                              |
+|                                  | Oct. 2021 - Aug. 2022                                                                                                                       |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="60"}    | <span style="font-size: 13px; line-height: 1.3"> **Research Assistant (Part-time, Quality Maintenance Lab)**\                               |
+|                                  | S*upervised by A. Prof. Li Li, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)*\                |
+|                                  | Sept. 2020 - July. 2021                                                                                                                     |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="60"}    | <span style="font-size: 13px; line-height: 1.3"> **Research Assistant (Part-time, Nutrition & Computational Biology Lab)\                   |
+|                                  | **S*upervised by Prof. Baiyi Lu, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)*\              |
+|                                  | Nov. 2019 - May. 2021                                                                                                                       |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
