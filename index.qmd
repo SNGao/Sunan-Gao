@@ -42,7 +42,7 @@ format:
 
 I am intrigued by the integration of aging indicators (e.g. frailty, biological age), digital bio-markers (e.g. wearable measurement), age-related disease (e.g. cognitive decline, CVD), and omics (e.g. metabonomics, GWAS).
 
-Furthermore, how to combine and develop biostatistical (e.g. causal inference, functional data) and data science (e.g. transfer learning, deep learning) methods also drive my interest.
+Furthermore, exploring biostatistical (e.g. causal inference, functional data) and data science (e.g. transfer learning, deep learning) methods also drive my interest.
 
 ### [**Selected Paper (**]{.smallcaps}[More](https://sngao.github.io/Sunan-Gao/about.html)[**)**]{.smallcaps}
 
