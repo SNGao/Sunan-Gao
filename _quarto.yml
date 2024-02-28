@@ -25,7 +25,7 @@ website:
 format:
   html:
     theme:
-      light: minty
+      light: minty # united, LUX, litera, journal, Superhero
       dark: solar
     css: styles.css
     toc: true

@@ -38,7 +38,7 @@ Biostatistics; Epidemiology; Biomedical Data Science; Aging
 
 -   Yong W, Yaoran Li, Wei J, ... Yu Z (2023). Reconstructing hepatic metabolic profile and glutathione-mediated metabolic fate of acrylamide. doi: <https://doi.org/10.1016/j.envpol.2023.122508>
 
--   Yu W, Heming D, Sunan G, ... Fei W (2024). A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index. doi: <https://doi.org/10.3390/ijerph21020202>
+-   Yu W, Heming D, [***Sunan, G,***]{.underline} ... Fei W (2024). A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index. doi: <https://doi.org/10.3390/ijerph21020202>
 
 -   National Invention Patent (CN-115006369-A, 2021-2023). A brain-targeted lipid nanocapsule drug-carrying system and its preparation method and application. Link: <https://pubchem.ncbi.nlm.nih.gov/patent/CN-115006369-A>
 
@@ -48,7 +48,7 @@ Biostatistics; Epidemiology; Biomedical Data Science; Aging
 
 -   Mingyi, Y, Zisheng, L, [***Sunan, G***]{.underline}, ..., Li, L (2021). The chemical composition and potential role of epicuticular and intracuticular wax in four cultivars of table grapes. POSTHARVEST BIOL TEC, 173: 111430. doi: <https://doi.org/10.1016/j.postharvbio.2020.111430>
 
-### [**Working Paper**]{.smallcaps}
+### [**Working Papers**]{.smallcaps}
 
 -   [***Sunan, G***]{.underline}, Tongxu L, Heming D, ... Yu, W (2023). Evidence for Serum metabolites mediate causal relationships between gut microbiota and cognitive functions: a Mendelian randomization study. (Under Review)
 
