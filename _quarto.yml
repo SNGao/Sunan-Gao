@@ -31,4 +31,4 @@ format:
     toc: true
 
 editor: visual
-bibliography: ref_project1.bib
+# bibliography: ref_project1.bib
