@@ -19,14 +19,16 @@ website:
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=QmKga9sAAAAJ
       - icon: linkedin
-        href: www.linkedin.com/in/sunangao
+        href: https://www.linkedin.com/in/sunangao
+      - text: Email
+        href: mailto:sgao57@jh.edu
       
 
 format:
   html:
     theme:
       light: minty # united, LUX, litera, journal, Superhero
-      dark: solar
+      # dark: solar
     css: styles.css
     toc: true
 
