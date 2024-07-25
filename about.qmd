@@ -64,30 +64,44 @@ Biostatistics; Epidemiology; Biomedical Data Science; Aging
 
 ### [**Research Experience**]{.smallcaps}
 
-+-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](JHU_logo.png){width="60" height="71"}     | <span style="font-size: 14px; line-height: 1.3"> **Graduate Research Assistant (Part-time, Biostatistics Lab)**\               |
-|                                               | *Supervised by A. Prof. Jennifer Schrack in* [*Bloomberg school of public health*](https://publichealth.jhu.edu/)*\            |
-|                                               | Co-supervised by Ciprian Crainiceanu in* [*Bloomberg school of public health*](https://publichealth.jhu.edu/)*\                |
-|                                               | *Jan. 2023 - Now                                                                                                               |
-+-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](RUC_logo.png){width="60"}                 | <span style="font-size: 14px; line-height: 1.3"> **Graduate Research Assistant (Full-time, Biostatistics Lab)**\               |
-|                                               | *Supervised by A. Prof. Yu Wang, in [School of Statistics](http://stat.ruc.edu.cn/Home/index.htm)\                             |
-|                                               | *Sept. 2022 - Aug. 2023                                                                                                        |
-+-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}**\              | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, Bioinformatics Lab)**\                       |
-| **                                            | *Supervised by Prof. Ming Chen, in [College of Life Science](http://www.cls.en.zju.edu.cn/)\                                   |
-|                                               | *Feb. 2022 - Aug. 2022                                                                                                         |
-+-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}                 | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, CVD & Epidemiology Lab)**\                   |
-|                                               | *Supervised by Prof. Yu Zhang, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)\    |
-|                                               | Co-supervised by Prof. Jingjing Jiao, in [School of Public Health](http://www.phs.zju.edu.cn/phsen/main.htm)*\                 |
-|                                               | Oct. 2021 - Aug. 2022                                                                                                          |
-+-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}                 | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, Quality Maintenance Lab)**\                  |
-|                                               | S*upervised by A. Prof. Li Li, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)*\   |
-|                                               | Sept. 2020 - July. 2021                                                                                                        |
-+-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}                 | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, Nutrition & Computational Biology Lab)\      |
-|                                               | **S*upervised by Prof. Baiyi Lu, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)*\ |
-|                                               | Nov. 2019 - May. 2021                                                                                                          |
-+-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](JHU_logo.png){width="60" height="71"} | <span style="font-size: 14px; line-height: 1.3"> **Graduate Research Assistant (Part-time, Biostatistics Lab)**\               |
+|                                           | *Supervised by A. Prof. Jennifer Schrack in* [*Bloomberg school of public health*](https://publichealth.jhu.edu/)*\            |
+|                                           | Co-supervised by Ciprian Crainiceanu in* [*Bloomberg school of public health*](https://publichealth.jhu.edu/)*\                |
+|                                           | *Jan. 2023 - Now                                                                                                               |
++-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](RUC_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.3"> **Graduate Research Assistant (Full-time, Biostatistics Lab)**\               |
+|                                           | *Supervised by A. Prof. Yu Wang, in [School of Statistics](http://stat.ruc.edu.cn/Home/index.htm)\                             |
+|                                           | *Sept. 2022 - Aug. 2023                                                                                                        |
++-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="60"}**\          | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, Bioinformatics Lab)**\                       |
+| **                                        | *Supervised by Prof. Ming Chen, in [College of Life Science](http://www.cls.en.zju.edu.cn/)\                                   |
+|                                           | *Feb. 2022 - Aug. 2022                                                                                                         |
++-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, CVD & Epidemiology Lab)**\                   |
+|                                           | *Supervised by Prof. Yu Zhang, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)\    |
+|                                           | Co-supervised by Prof. Jingjing Jiao, in [School of Public Health](http://www.phs.zju.edu.cn/phsen/main.htm)*\                 |
+|                                           | Oct. 2021 - Aug. 2022                                                                                                          |
++-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, Quality Maintenance Lab)**\                  |
+|                                           | S*upervised by A. Prof. Li Li, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)*\   |
+|                                           | Sept. 2020 - July. 2021                                                                                                        |
++-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, Nutrition & Computational Biology Lab)\      |
+|                                           | **S*upervised by Prof. Baiyi Lu, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)*\ |
+|                                           | Nov. 2019 - May. 2021                                                                                                          |
++-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+
+### [**Teaching Experience**]{.smallcaps}
+
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](JHU_logo.png){width="60" height="71"} | <span style="font-size: 14px; line-height: 1.3"> **Methods in Biostatistics I-IV (Graduate Teaching Assistant) \                                                                                                                                                |
+|                                           | ***Directed by* [*Ravi Varadhan*](https://publichealth.jhu.edu/faculty/2393/ravi-varadhan)*, [Elizabeth Colantuoni](https://publichealth.jhu.edu/faculty/800/elizabeth-colantuoni)*, *in* [*Bloomberg school of public health*](https://publichealth.jhu.edu/)\ |
+|                                           | Expected Date: Aug. 2024 - May. 2025                                                                                                                                                                                                                            |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.4"> **Innovation & Entrepreneurship** (**Part-time tutor)***\                                                                                                                                                      |
+|                                           | *Sept. 2021 - May. 2022                                                                                                                                                                                                                                         |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.4"> **Engineering Mechanics** (**Peer Tutoring) \                                                                                                                                                                  |
+|                                           | **Dec. 2020 - Fev. 2021                                                                                                                                                                                                                                         |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
