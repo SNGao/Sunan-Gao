@@ -48,7 +48,7 @@ Biostatistics; Epidemiology; Biomedical Data Science; Aging
 
 -   Mingyi, Y, Zisheng, L, [***Sunan, G***]{.underline}, ..., Li, L (2021). The chemical composition and potential role of epicuticular and intracuticular wax in four cultivars of table grapes. POSTHARVEST BIOL TEC, 173: 111430. doi: <https://doi.org/10.1016/j.postharvbio.2020.111430>
 
-### [**Working Papers**]{.smallcaps}
+### [**Peer-reviewed or Working Papers**]{.smallcaps}
 
 -   [***Sunan, G***]{.underline}, Tongxu L, Heming D, ... Yu, W (2024). Evidence for Serum metabolites mediate causal relationships between gut microbiota and cognitive functions: a Mendelian randomization study. (Under Review, J AFFECTIVE DISORDERS)
 
@@ -61,6 +61,16 @@ Biostatistics; Epidemiology; Biomedical Data Science; Aging
 -   [***Sunan, G***]{.underline} (2024) Deploying and comparing multiple open-source step counting algorithms in the ARIC study (Working Paper, ARIC Proposal #: 4495)
 
 -   [***Sunan, G***]{.underline} (2024) Causal evidence for serum metabolites mediate causal relationships between gut microbiota and autistic spectrum disorder (ASD) (Working Paper, [\[Github\]](https://github.com/SNGao/Gut-Met-MR))
+
+### [**Additional Projects**]{.smallcaps}
+
+-   **Characterizing Objectively Measured Physical Activity Patterns by Phenotypic Frailty: A Multi-Cohort Analysis of Older Adults in the United States.** Supervised by [Jennifer Schrack](https://publichealth.jhu.edu/faculty/2686/jennifer-a-schrack)
+
+-   **Enhancing Scalar-on-Function Regression for Complex Survey Analysis.** Supervised by [Xinkai Zhou](https://xinkai-zhou.github.io/).
+
+-   **Bi-Directional Associations Between Physical Activity and Brain Structure.** Supervised by [Xinkai Zhou](https://xinkai-zhou.github.io/).
+
+-   **Multi-modal fusion with clinical time-series data and chest X-ray images.** Group Work for The 5th PLAGH-MIT Healthcare AI Conference and Datathon.
 
 ### [**Research Experience**]{.smallcaps}
 
@@ -95,13 +105,13 @@ Biostatistics; Epidemiology; Biomedical Data Science; Aging
 ### [**Teaching Experience**]{.smallcaps}
 
 +-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](JHU_logo.png){width="60" height="71"} | <span style="font-size: 14px; line-height: 1.3"> **Methods in Biostatistics I-IV (Graduate Teaching Assistant) \                                                                                                                                                |
+| ![](JHU_logo.png){width="60" height="71"} | <span style="font-size: 14px; line-height: 1.3"> **Methods in Biostatistics I-IV (Graduate Teaching Assistant)\                                                                                                                                                 |
 |                                           | ***Directed by* [*Ravi Varadhan*](https://publichealth.jhu.edu/faculty/2393/ravi-varadhan)*, [Elizabeth Colantuoni](https://publichealth.jhu.edu/faculty/800/elizabeth-colantuoni)*, *in* [*Bloomberg school of public health*](https://publichealth.jhu.edu/)\ |
-|                                           | Expected Date: Aug. 2024 - May. 2025                                                                                                                                                                                                                            |
+|                                           | Expected Date: Aug. 2024 - May. 2025 (Expected)                                                                                                                                                                                                                 |
 +-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.4"> **Innovation & Entrepreneurship** (**Part-time tutor)***\                                                                                                                                                      |
 |                                           | *Sept. 2021 - May. 2022                                                                                                                                                                                                                                         |
 +-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.4"> **Engineering Mechanics** (**Peer Tutoring) \                                                                                                                                                                  |
+| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.4"> **Engineering Mechanics** (**Peer Tutoring)\                                                                                                                                                                   |
 |                                           | **Dec. 2020 - Fev. 2021                                                                                                                                                                                                                                         |
 +-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
