@@ -12,8 +12,6 @@ website:
         text: Home # use 'text' option to update the name as you want it to appear in your navbar
       - href: about.qmd
         text: About
-      - href: myCV.pdf
-        text: CV
       - icon: github # add icons that link to social media, etc.
         href: https://github.com/SNGao
       - text: "{{< ai google-scholar >}}"
