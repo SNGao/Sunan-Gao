@@ -4,9 +4,11 @@
 .Ruserdata
 
 /.quarto/
-gitattributes/
 data_raw/
-extensions/
+_extensions/
 _site/
 index_files/
+
 # personal materials
+Sunan_CV.Rproj
+.gitattributes
