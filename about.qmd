@@ -20,19 +20,17 @@ Biostatistics; Epidemiology; Biomedical Data Science; Aging
 
 -   ***Aging-related Diseases:*** Cognitive decline; Dementia; Cardiovascular disease
 
--   ***Research Methods:*** Machine Learning; Functional analysis; Omics procedure; Causal inference;
+-   ***Research Methods:*** Machine Learning; Functional data analysis; Multi-Omics; Causal inference
 
 -   ***High Dimensional Data:*** Accelerator data; Metabonomics; Genomics
 
 -   ***Composite Indicator:*** Biological age; Digital biomarker; Dietary pattern
 
-### [**Selected Publications**]{.smallcaps}
+### [**Peer-reviewed Articles**]{.smallcaps}
 
 -   [***Sunan, G***]{.underline}, Heming D, Shaobo W, ... Yu, W (2023). Effects of accelerated biological aging on depressive symptoms in a causal reasoning framework. J AFFECTIVE DISORDERS, 339. doi: <https://doi.org/10.1016/j.jad.2023.07.019>
 
 -   Qing, Y^1^, [***Sunan, G***]{.underline}^1^, Junfen, L., ... Ming, C (2023). A machine learning-based data mining in medical examination data: a biological features-based biological age prediction model. BMC BIOINFORMATICS, 23(1), 411. doi: <https://doi.org/10.1186/s12859-022-04966-7>
-
--   Heming D, [***Sunan, G***]{.underline}. CRAN R Package (2023). UOTM: Uncertainty of Time Series Model Selection. Link: <https://cran.r-project.org/web/packages/uotm/index.html>
 
 -   Xuzhi, W, Yiju, Z, [***Sunan, G***]{.underline}, ... Yu, Z (2023). Machine learning prediction of exposure to acrylamide based on modelling of association between dietary exposure and internal biomarkers. FOOD CHEM TOXICOL, 170: 113498. doi: <https://doi.org/10.1016/j.fct.2022.113498>
 
@@ -40,78 +38,74 @@ Biostatistics; Epidemiology; Biomedical Data Science; Aging
 
 -   Yu W, Heming D, [***Sunan, G,***]{.underline} ... Fei W (2024). A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index. doi: <https://doi.org/10.3390/ijerph21020202>
 
--   National Invention Patent (CN-115006369-A, 2021-2023). A brain-targeted lipid nanocapsule drug-carrying system and its preparation method and application. Link: <https://pubchem.ncbi.nlm.nih.gov/patent/CN-115006369-A>
-
 -   [***Sunan, G***]{.underline}, Mingyi, Y, Zisheng, L, ... Li, L. (2022). Soy protein/chitosan-based microsphere as stable biocompatible vehicles of oleanolic acid: an emerging alternative enabling the quality maintenance of minimally processed produce. FOOD HYDROCOLLOID, 124(Part B), 107325. doi: <https://doi.org/10.1016/j.foodhyd.2021.107325>
 
 -   Plasma metabolome reveals the associations of dietary fats with risk of metabolic syndrome. 15th China Nutrition Science Congress (Conference paper, 2022). Link: <https://cnsc2021.sciconf.cn/cn/web/abstract-search/11176>
 
 -   Mingyi, Y, Zisheng, L, [***Sunan, G***]{.underline}, ..., Li, L (2021). The chemical composition and potential role of epicuticular and intracuticular wax in four cultivars of table grapes. POSTHARVEST BIOL TEC, 173: 111430. doi: <https://doi.org/10.1016/j.postharvbio.2020.111430>
 
-### [**Peer-reviewed or Working Papers**]{.smallcaps}
+-   Juncen, D, ***Sunan, G***, Jianchu Chen (2021). Application progress and prospect of light-emitting diode light technology in food preservation. Science and Technology of Food Industry 2021 (16), 374-380. doi: [10.13386/j.issn1002-0306.2020080116](http://dx.doi.org/10.13386/j.issn1002-0306.2020080116)
 
--   [***Sunan, G***]{.underline}, Tongxu L, Heming D, ... Yu, W (2024). Evidence for Serum metabolites mediate causal relationships between gut microbiota and cognitive functions: a Mendelian randomization study. (Under Review, J AFFECTIVE DISORDERS)
+### [**Under-reviewed Articles**]{.smallcaps}
 
--   Yimei T^1^, [***Sunan, G***]{.underline}^**1**^, Xuzhi W, ... Yu, Z. (2024). Internal and external exposure associations of 3- monochloropropane and glycidol using machine learning. (Under Review, FOOD CHEM, [\[Github\]](https://github.com/SNGao/ML-dietaryMG-Association))
+-   [***Sunan, G***]{.underline}, Tongxu L, Heming D, ... Yu, W (2024). Evidence for Serum metabolites mediate causal relationships between gut microbiota and cognitive functions: a Mendelian randomization study. J AFFECTIVE DISORDERS.
 
--   [***Sunan, G***]{.underline}, Yimei T, Xuzhi W, ... Yu, Z. (2024). Urinary metabolic analysis under 3-Chloro-1,2-propanediol di-ester and Eicosapentaenoic acid co-exposure: based on non-targeted metabolomics and molecular docking. (Under Review)
+-   Yimei T^1^, [***Sunan, G***]{.underline}^**1**^, Xuzhi W, ... Yu, Z. (2024). Internal and external exposure associations of 3- monochloropropane and glycidol using machine learning. SCI TOTAL ENVIRON.
 
--   [***Sunan, G***]{.underline} (2024) Overall and domain-specific cognitive trajectories and objective physical activity in the ARIC Neurocognitive Study (Working Paper, ARIC Proposal #: 4442)
+### [**Software & Patent**]{.smallcaps}
 
--   [***Sunan, G***]{.underline} (2024) Deploying and comparing multiple open-source step counting algorithms in the ARIC study (Working Paper, ARIC Proposal #: 4495)
+-   Heming D, [***Sunan, G***]{.underline}. CRAN R Package (2023). UOTM: Uncertainty of Time Series Model Selection. Link: <https://cran.r-project.org/web/packages/uotm/index.html>
 
--   [***Sunan, G***]{.underline} (2024) Causal evidence for serum metabolites mediate causal relationships between gut microbiota and autistic spectrum disorder (ASD) (Working Paper, [\[Github\]](https://github.com/SNGao/Gut-Met-MR))
+-   ***Sunan G.*****,** Tongxu L. (2024). Gut-Met-MR: Mendelian Randomization framework for Gut Microbiome Communication. *GitHub R package,* coming soon
 
-### [**Additional Projects**]{.smallcaps}
+-   National Invention Patent (CN-115006369-A, 2021-2023). A brain-targeted lipid nanocapsule drug-carrying system and its preparation method and application. Link: <https://pubchem.ncbi.nlm.nih.gov/patent/CN-115006369-A>
 
--   **Characterizing Objectively Measured Physical Activity Patterns by Phenotypic Frailty: A Multi-Cohort Analysis of Older Adults in the United States.** Supervised by [Jennifer Schrack](https://publichealth.jhu.edu/faculty/2686/jennifer-a-schrack)
+### [**Manuscript in Preparation**]{.smallcaps} 
 
--   **Enhancing Scalar-on-Function Regression for Complex Survey Analysis.** Supervised by [Xinkai Zhou](https://xinkai-zhou.github.io/).
+-   [***Sunan, G***]{.underline} (2024) Scalar-on-function regression estimation under complex survey design
 
--   **Bi-Directional Associations Between Physical Activity and Brain Structure.** Supervised by [Xinkai Zhou](https://xinkai-zhou.github.io/).
+-   [***Sunan, G***]{.underline} (2024) Overall and domain-specific cognitive trajectories and objective physical activity in the ARIC Neurocognitive Study (ARIC Proposal #: 4442)
 
--   **Multi-modal fusion with clinical time-series data and chest X-ray images.** Group Work for The 5th PLAGH-MIT Healthcare AI Conference and Datathon.
+-   [***Sunan, G***]{.underline} (2024) Deploying and comparing multiple open-source step counting algorithms in the ARIC study (ARIC Proposal #: 4495)
+
+-   [***Sunan, G***]{.underline} (2024) Causal evidence for serum metabolites mediate causal relationships between gut microbiota and autistic spectrum disorder (ASD) [\[GitHub\]](https://github.com/SNGao/Gut-Met-MR)
+
+-   [***Sunan, G***]{.underline}, Yimei T, Xuzhi W, ... Yu, Z. (2024). Urinary metabolic analysis under 3-Chloro-1,2-propanediol di-ester and Eicosapentaenoic acid co-exposure: based on non-targeted metabolomics and molecular docking. (Manuscript to be submitted)
+
+### [**Onging Collaborative Projects**]{.smallcaps}
+
+-   Objectively Measured Physical Activity Patterns by Phenotopic Frailty: A Multi-Cohort Analysis of Older Adults in the United States.
+
+-   Bi-Directional Associations Between Physical Activity and Brain Volumes in UK Biobank.
+
+-   Multi-modal fusion with clinical time-series data and chest X-ray images.
 
 ### [**Research Experience**]{.smallcaps}
 
-+-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](JHU_logo.png){width="60" height="71"} | <span style="font-size: 14px; line-height: 1.3"> **Graduate Research Assistant (Part-time, Biostatistics Lab)**\               |
-|                                           | *Supervised by A. Prof. Jennifer Schrack in* [*Bloomberg school of public health*](https://publichealth.jhu.edu/)*\            |
-|                                           | Co-supervised by Ciprian Crainiceanu in* [*Bloomberg school of public health*](https://publichealth.jhu.edu/)*\                |
-|                                           | *Jan. 2023 - Now                                                                                                               |
-+-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](RUC_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.3"> **Graduate Research Assistant (Full-time, Biostatistics Lab)**\               |
-|                                           | *Supervised by A. Prof. Yu Wang, in [School of Statistics](http://stat.ruc.edu.cn/Home/index.htm)\                             |
-|                                           | *Sept. 2022 - Aug. 2023                                                                                                        |
-+-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}**\          | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, Bioinformatics Lab)**\                       |
-| **                                        | *Supervised by Prof. Ming Chen, in [College of Life Science](http://www.cls.en.zju.edu.cn/)\                                   |
-|                                           | *Feb. 2022 - Aug. 2022                                                                                                         |
-+-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, CVD & Epidemiology Lab)**\                   |
-|                                           | *Supervised by Prof. Yu Zhang, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)\    |
-|                                           | Co-supervised by Prof. Jingjing Jiao, in [School of Public Health](http://www.phs.zju.edu.cn/phsen/main.htm)*\                 |
-|                                           | Oct. 2021 - Aug. 2022                                                                                                          |
-+-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, Quality Maintenance Lab)**\                  |
-|                                           | S*upervised by A. Prof. Li Li, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)*\   |
-|                                           | Sept. 2020 - July. 2021                                                                                                        |
-+-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.3"> **Research Assistant (Part-time, Nutrition & Computational Biology Lab)\      |
-|                                           | **S*upervised by Prof. Baiyi Lu, in [College in Biosystems Engineering & Food Science](http://www.caefs.zju.edu.cn/caefsen/)*\ |
-|                                           | Nov. 2019 - May. 2021                                                                                                          |
-+-------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-
-### [**Teaching Experience**]{.smallcaps}
-
-+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](JHU_logo.png){width="60" height="71"} | <span style="font-size: 14px; line-height: 1.3"> **Methods in Biostatistics I-IV (Graduate Teaching Assistant)\                                                                                                                                                 |
-|                                           | ***Directed by* [*Ravi Varadhan*](https://publichealth.jhu.edu/faculty/2393/ravi-varadhan)*, [Elizabeth Colantuoni](https://publichealth.jhu.edu/faculty/800/elizabeth-colantuoni)*, *in* [*Bloomberg school of public health*](https://publichealth.jhu.edu/)\ |
-|                                           | Expected Date: Aug. 2024 - May. 2025 (Expected)                                                                                                                                                                                                                 |
-+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.4"> **Innovation & Entrepreneurship** (**Part-time tutor)***\                                                                                                                                                      |
-|                                           | *Sept. 2021 - May. 2022                                                                                                                                                                                                                                         |
-+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](ZJU_logo.png){width="60"}             | <span style="font-size: 14px; line-height: 1.4"> **Engineering Mechanics** (**Peer Tutoring)\                                                                                                                                                                   |
-|                                           | **Dec. 2020 - Fev. 2021                                                                                                                                                                                                                                         |
-+-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++:------------------------------------:+--------------------------------------------------------------------------------------------------------------+
+| ![](images/JHU_logo.png){width="68"} | <span style="font-size: 14px; line-height: 1.3"> **Graduate Research Assistant (Johns Hopkins University)**\ |
+|                                      | *Supervised by Jennifer Schrack, Professor of Biostatistics\                                                 |
+|                                      | *Jan. 2024 - Now                                                                                             |
++--------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| ![](images/JHU_logo.png){width="68"} | <span style="font-size: 14px; line-height: 1.3"> **Master’s Researcher (Johns Hopkins University)**\         |
+|                                      | *Supervised by Ciprian Crainiceanu, Professor of Biostatistics\                                              |
+|                                      | *Jan. 2024 - Now                                                                                             |
++--------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| ![](images/RUC_logo.png){width="68"} | <span style="font-size: 14px; line-height: 1.3"> **Graduate Research Assistant (Johns Hopkins University)**\ |
+|                                      | *Supervised by Yu Wang, Professor of Statistics\                                                             |
+|                                      | *Sept. 2022 - Nov. 2023                                                                                      |
++--------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| ![](images/ZJU_logo.png){width="68"} | <span style="font-size: 14px; line-height: 1.3"> **Undergraduate Researcher (Zhejiang University)**\         |
+|                                      | *Supervised by Ming Chen, Professor of Bioinformatics\                                                       |
+|                                      | *Jan. 2022 - Sept. 2022                                                                                      |
++--------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| ![](images/ZJU_logo.png){width="68"} | <span style="font-size: 14px; line-height: 1.3"> **Undergraduate Researcher (Zhejiang University)**\         |
+|                                      | *Supervised by Yu Zhang, Professor of Food Science\                                                          |
+|                                      | Co-supervised by Jingjing Jiao, Professor of Nutrition*\                                                     |
+|                                      | Oct. 2021 - Aug. 2022                                                                                        |
++--------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| ![](images/ZJU_logo.png){width="68"} | <span style="font-size: 14px; line-height: 1.3"> **Undergraduate Research Assistant (Zhejiang University)**\ |
+|                                      | *Supervised by Li Li, Professor of Food Science\                                                             |
+|                                      | Co-Supervised by Baiyi Lu, Professor of Food Science*\                                                       |
+|                                      | Feb. 2019 - Sept. 2021                                                                                       |
++--------------------------------------+--------------------------------------------------------------------------------------------------------------+
