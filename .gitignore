@@ -1,16 +1,22 @@
+# R and RStudio files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# macOS system files
 .DS_Store
 
+# Quarto files
 /.quarto/
-data_raw/
 _extensions/
 _site/
 index_files/
 
-# personal materials
+# Raw data
+data_raw/
+
+# Personal project files
 Sunan_CV.Rproj
 .gitattributes
 theme.scss
