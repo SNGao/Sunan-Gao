@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
 
 /.quarto/
 data_raw/
@@ -12,6 +13,6 @@ index_files/
 # personal materials
 Sunan_CV.Rproj
 .gitattributes
-theme.css
+theme.scss
 styles.css
 image.jpg
