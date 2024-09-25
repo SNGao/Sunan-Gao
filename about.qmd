@@ -48,7 +48,7 @@ Biostatistics; Epidemiology; Biomedical Data Science; Aging
 
 ### [**Under-reviewed Articles**]{.smallcaps}
 
--   [***Sunan, G***]{.underline}, Tongxu L, Heming D, ... Yu, W (2024). Evidence for Serum metabolites mediate causal relationships between gut microbiota and cognitive functions: a Mendelian randomization study. J AFFECTIVE DISORDERS.
+-   [***Sunan, G***]{.underline}, Tongxu L, Heming D, ... Yu, W (2024). Evidence for Serum metabolites mediate causal relationships between gut microbiota and cognitive functions: a Mendelian randomization study. *FOOD FUNCT*.
 
 -   Yimei T^1^, [***Sunan, G***]{.underline}^**1**^, Xuzhi W, ... Yu, Z. (2024). Internal and external exposure associations of 3- monochloropropane and glycidol using machine learning. SCI TOTAL ENVIRON.
 

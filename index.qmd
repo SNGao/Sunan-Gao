@@ -78,7 +78,7 @@ Furthermore, exploring biostatistical (e.g. causal inference, functional data) a
 |                                                             | Working Paper, [\[Github repo\]](https://github.com/SNGao/Gut-Met-MR)                                                                                                                                               |
 +-------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-### [**Selected Peer-reviewed Articles (**]{.smallcaps}[More](https://sngao.github.io/Sunan-Gao/about.html)[**)**]{.smallcaps}
+### [**Selected Publications (**]{.smallcaps}[More](https://sngao.github.io/Sunan-Gao/about.html)[**)**]{.smallcaps}
 
 +-----------------------------------------+:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/Met-Design.png){width="280"} | <span style="font-size: 15px; line-height: 1.3">\                                                                                                                                                                                                                                                |
