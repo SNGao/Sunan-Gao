@@ -12,6 +12,6 @@ index_files/
 # personal materials
 Sunan_CV.Rproj
 .gitattributes
-theme.scss
-style.scss
+theme.css
+styles.css
 image.jpg
