@@ -4,5 +4,6 @@
 .Ruserdata
 
 /.quarto/
-
+gitattributes/
+data_raw/
 # personal materials
