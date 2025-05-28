@@ -14,71 +14,57 @@ format:
 
 ### [**Disciplines**]{.smallcaps}
 
-Biostatistics; Epidemiology; Biomedical Data Science; Aging
+Aging, Biostatistics; Epidemiology; Biomedical Data Science
 
 ### [**Research Interest**]{.smallcaps}
 
 -   ***Aging-related Diseases:*** Cognitive decline; Dementia; Cardiovascular disease
 
--   ***Research Methods:*** Machine Learning; Functional data analysis; Multi-Omics; Causal inference
+-   ***Research Methods:*** Functional data analysis; Machine Learning; Causal inference
 
--   ***High Dimensional Data:*** Accelerator data; Metabonomics; Genomics
+-   ***High Dimensional Data:*** Accelerator data; Multi-Omics
 
--   ***Composite Indicator:*** Biological age; Digital biomarker; Dietary pattern
+### [**Peer-reviewed Articles (first author)**]{.smallcaps}
 
-### [**Peer-reviewed Articles**]{.smallcaps}
+-   **Gao, S.**, Xiao, A.Y., Zou, S., Li, T., Deng, H., Wang, Y., 2025a. Exploring causal links in the gut–brain axis: a Mendelian randomization study of gut microbiota, metabolites, and cognition. Food Funct. https://doi.org/10.1039/D4FO04366A
 
--   [***Sunan, G***]{.underline}, Heming D, Shaobo W, ... Yu, W (2023). Effects of accelerated biological aging on depressive symptoms in a causal reasoning framework. J AFFECTIVE DISORDERS, 339. doi: <https://doi.org/10.1016/j.jad.2023.07.019>
+-   **Gao, S.**, Zhou, X., Koffman, L., Wanigatunga, A.A., Schrack, J.A., Crainiceanu, C.M., Muschelli, J., 2025b. Comparing step counting algorithms for high-resolution wrist accelerometry data in older adults in the ARIC study. J. Gerontol. Ser. A glaf034. https://doi.org/10.1093/gerona/glaf034
 
--   Qing, Y^1^, [***Sunan, G***]{.underline}^1^, Junfen, L., ... Ming, C (2023). A machine learning-based data mining in medical examination data: a biological features-based biological age prediction model. BMC BIOINFORMATICS, 23(1), 411. doi: <https://doi.org/10.1186/s12859-022-04966-7>
+-   **Gao, S.**, Deng, H., Wen, S., Wang, Y., 2023. Effects of accelerated biological age on depressive symptoms in a causal reasoning framework. J. Affect. Disord. 339, 732–741. https://doi.org/10.1016/j.jad.2023.07.019
 
--   Xuzhi, W, Yiju, Z, [***Sunan, G***]{.underline}, ... Yu, Z (2023). Machine learning prediction of exposure to acrylamide based on modelling of association between dietary exposure and internal biomarkers. FOOD CHEM TOXICOL, 170: 113498. doi: <https://doi.org/10.1016/j.fct.2022.113498>
+-   Yang, Q.^1^, **Gao, S.**^1^, Lin, J., Lyu, K., Wu, Z., Chen, Y., Qiu, Y., Zhao, Y., Wang, W., Lin, T., Pan, H., Chen, M., 2022. A machine learning-based data mining in medical examination data: a biological features-based biological age prediction model. BMC Bioinformatics 23, 411. https://doi.org/10.1186/s12859-022-04966-7
 
--   Yong W, Yaoran Li, Wei J, ... Yu Z (2023). Reconstructing hepatic metabolic profile and glutathione-mediated metabolic fate of acrylamide. doi: <https://doi.org/10.1016/j.envpol.2023.122508>
+-   **Gao, S.**, Yang, M., Luo, Z., Ban, Z., Pan, Y., Tu, M., Ma, Q., Lin, X., Xu, Y., Li, L., 2022. Soy protein/chitosan-based microsphere as Stable Biocompatible Vehicles of Oleanolic Acid: An Emerging Alternative Enabling the Quality Maintenance of Minimally Processed Produce. Food Hydrocoll. 124, 107325. https://doi.org/10.1016/j.foodhyd.2021.107325
 
--   Yu W, Heming D, [***Sunan, G,***]{.underline} ... Fei W (2024). A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index. doi: <https://doi.org/10.3390/ijerph21020202>
+### [**Peer-reviewed Articles (other author)**]{.smallcaps}
 
--   [***Sunan, G***]{.underline}, Mingyi, Y, Zisheng, L, ... Li, L. (2022). Soy protein/chitosan-based microsphere as stable biocompatible vehicles of oleanolic acid: an emerging alternative enabling the quality maintenance of minimally processed produce. FOOD HYDROCOLLOID, 124(Part B), 107325. doi: <https://doi.org/10.1016/j.foodhyd.2021.107325>
+-   Wang, Y., Deng, H., **Gao, S.**, Li, T., Wang, F., 2024. A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index. Int. J. Environ. Res. Public. Health 21, 202. https://doi.org/10.3390/ijerph21020202
 
--   Plasma metabolome reveals the associations of dietary fats with risk of metabolic syndrome. 15th China Nutrition Science Congress (Conference paper, 2022). Link: <https://cnsc2021.sciconf.cn/cn/web/abstract-search/11176>
+-   Wu, Y., Li, Y., Jia, W., Zhu, L., Wan, X., **Gao, S.**, Zhang, Y., 2023. Reconstructing hepatic metabolic profile and glutathione-mediated metabolic fate of acrylamide. Environ. Pollut. 337, 122508. https://doi.org/10.1016/j.envpol.2023.122508
 
--   Mingyi, Y, Zisheng, L, [***Sunan, G***]{.underline}, ..., Li, L (2021). The chemical composition and potential role of epicuticular and intracuticular wax in four cultivars of table grapes. POSTHARVEST BIOL TEC, 173: 111430. doi: <https://doi.org/10.1016/j.postharvbio.2020.111430>
+-   Wan, X., Zhang, Yiju, **Gao, S.**, Shen, X., Jia, W., Pan, X., Zhuang, P., Jiao, J., Zhang, Yu, 2022. Machine learning prediction of exposure to acrylamide based on modelling of association between dietary exposure and internal biomarkers. Food Chem. Toxicol. 170, 113498. https://doi.org/10.1016/j.fct.2022.113498
 
--   Juncen, D, ***Sunan, G***, Jianchu Chen (2021). Application progress and prospect of light-emitting diode light technology in food preservation. Science and Technology of Food Industry 2021 (16), 374-380. doi: [10.13386/j.issn1002-0306.2020080116](http://dx.doi.org/10.13386/j.issn1002-0306.2020080116)
+-   Ji, S., Xu, T., Huang, W., **Gao, S.**, Zhong, Y., Yang, X., Ahmed Hassan, M., Lu, B., 2022. Atmospheric pressure plasma jet pretreatment to facilitate cassava starch modification with octenyl succinic anhydride. Food Chem. 370, 130922. https://doi.org/10.1016/j.foodchem.2021.130922
 
-### [**Under-reviewed Articles**]{.smallcaps}
+-   Yang, M., Luo, Z., **Gao, S.**, Belwal, T., Wang, L., Qi, M., Ban, Z., Wu, B., Wang, F., Li, L., 2021. The chemical composition and potential role of epicuticular and intracuticular wax in four cultivars of table grapes. Postharvest Biol. Technol. 173, 111430. https://doi.org/10.1016/j.postharvbio.2020.111430
 
--   [***Sunan, G***]{.underline}, Tongxu L, Heming D, ... Yu, W (2024). Evidence for Serum metabolites mediate causal relationships between gut microbiota and cognitive functions: a Mendelian randomization study. *FOOD FUNCT*.
-
--   Yimei T^1^, [***Sunan, G***]{.underline}^**1**^, Xuzhi W, ... Yu, Z. (2024). Internal and external exposure associations of 3- monochloropropane and glycidol using machine learning. SCI TOTAL ENVIRON.
+-   Dong, J., **Gao, S.**, Chen J., 2021. Application progress and prospect of light-emitting diode light technology in food preservation. Science and Technology of Food Industry 2021 (16), 374-380. doi: 10.13386/j.issn1002-0306.2020080116
 
 ### [**Software & Patent**]{.smallcaps}
 
--   Heming D, [***Sunan, G***]{.underline}. CRAN R Package (2023). UOTM: Uncertainty of Time Series Model Selection. Link: <https://cran.r-project.org/web/packages/uotm/index.html>
+-   Heming D, [***Sunan, G***]{.underline}. CRAN R Package (2023). UOTM: Uncertainty of Time Series Model Selection. Link: https://cran.r-project.org/web/packages/uotm/index.html
 
 -   [***Sunan G***]{.underline}**,** Tongxu L. (2024). Gut-Met-MR: Mendelian Randomization framework for Gut Microbiome Communication. *GitHub R package,* coming soon
 
--   National Invention Patent (CN-115006369-A, 2021-2023). A brain-targeted lipid nanocapsule drug-carrying system and its preparation method and application. Link: <https://pubchem.ncbi.nlm.nih.gov/patent/CN-115006369-A>
+-   National Invention Patent (CN-115006369-A, 2021-2023). A brain-targeted lipid nanocapsule drug-carrying system and its preparation method and application. Link: https://pubchem.ncbi.nlm.nih.gov/patent/CN-115006369-A
 
-### [**Manuscript in Preparation**]{.smallcaps}
+### [**Abstract & Posters**]{.smallcaps}
 
--   [***Sunan, G***]{.underline} (2024) Scalar-on-function regression estimation under complex survey design
+-   **Gao, S.**, Crainiceanu, C., Davoudi, A., Dougherty, R. J., Etzkorn, L., Wanigatunga, A. A., Spira, A. P., Schrack, J. A., 2025. Cognitive Decline Trajectories and Time-of-Day Physical Activity Patterns: The ARIC Neurocognitive Study. 18th Annual JHSPH Research on Aging Showcase #22
 
--   [***Sunan, G***]{.underline} (2024) Overall and domain-specific cognitive trajectories and objective physical activity in the ARIC Neurocognitive Study (ARIC Proposal #: 4442)
+-   Zou, S., **Gao, S.**, Juraschek, S., Miller, E., Matsushita, K., Appel, L., 2025. Abstract P2071: Effects of Dietary Patterns and Sodium Intake on Blood Pressure Variability: Results from the DASH and DASH-Sodium Trials. Circulation 151. https://doi.org/10.1161/cir.151.suppl_1.P2071
 
--   [***Sunan, G***]{.underline} (2024) Deploying and comparing multiple open-source step counting algorithms in the ARIC study (ARIC Proposal #: 4495)
-
--   [***Sunan, G***]{.underline} (2024) Causal evidence for serum metabolites mediate causal relationships between gut microbiota and autistic spectrum disorder (ASD) [\[GitHub\]](https://github.com/SNGao/Gut-Met-MR)
-
--   [***Sunan, G***]{.underline}, Yimei T, Xuzhi W, ... Yu, Z. (2024). Urinary metabolic analysis under 3-Chloro-1,2-propanediol di-ester and Eicosapentaenoic acid co-exposure: based on non-targeted metabolomics and molecular docking. (Manuscript to be submitted)
-
-### [**Onging Collaborative Projects**]{.smallcaps}
-
--   Objectively Measured Physical Activity Patterns by Phenotopic Frailty: A Multi-Cohort Analysis of Older Adults in the United States.
-
--   Bi-Directional Associations Between Physical Activity and Brain Volumes in UK Biobank.
-
--   Multi-modal fusion with clinical time-series data and chest X-ray images.
+-   Shi, H., Wan, X., **Gao, S.**, Zhuang, P., Zhang, Y., Jiao, J., 2022. Plasma metabolome reveals the associations of dietary fats with risk of metabolic syndrome. 15th China Nutrition Science Congress
 
 ### [**Research Experience**]{.smallcaps}
 
